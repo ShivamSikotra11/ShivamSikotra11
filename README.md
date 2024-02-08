@@ -64,6 +64,7 @@ Here are some ideas to get you started: -->
   <a href="https://www.linkedin.com/in/sikotra-shivam/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
+  
   [![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FShivam_Sikotra&logo=leetcode&logoColor=yellow)](https://leetcode.com/Shivam_Sikotra/)
 <!--
   <a href="https://soumyajitblogs.vercel.app/" target="_blank">
