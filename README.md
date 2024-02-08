@@ -20,11 +20,11 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about DSA,CP,ML Except Maths :sweat_smile:
 
+- 📫 How to reach me - **sikotra756@gmail.com**
+
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing with LeetCode
-
-
 
 
       
