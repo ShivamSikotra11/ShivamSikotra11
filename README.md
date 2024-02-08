@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./bannerr.png" />
 </div>
 
  <br/>
@@ -20,15 +20,12 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about DSA,CP,ML Except Maths :sweat_smile:
 - 💬 Ask me about **DSA**,**CP**,**Machine Learning, Data Science, NLP, Deep Learning**
-  
 - 📫 How to reach me - **sikotra756@gmail.com**
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing with LeetCode
 
-
-      
 ## 🛠️ Technologies and Tools I use:
 
 <p>
@@ -72,12 +69,10 @@ Here are some ideas to get you started: -->
 
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivam_sikotra/profile)
 
- 
-  
 <!--
   <a href="https://soumyajitblogs.vercel.app/" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/>
-  </a> 
+  </a>
   <a href="https://www.instagram.com/soumyajit4419" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
   </a>
@@ -94,4 +89,3 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShivamSikotra11&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSikotra11" alt="Shivam Sikotra's GitHub Streak" />
 </div>
-
