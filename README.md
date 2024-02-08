@@ -19,7 +19,8 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 💬 Ask me about DSA,CP,ML Except Maths :sweat_smile:
-
+- 💬 Ask me about **DSA**,**CP**,**Machine Learning, Data Science, NLP, Deep Learning**
+  
 - 📫 How to reach me - **sikotra756@gmail.com**
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
@@ -85,7 +86,7 @@ Here are some ideas to get you started: -->
 
 ## 🤝 Support Me:
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/sikotra756a" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 ## 📊 My GitHub Data:
 
