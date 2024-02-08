@@ -1,12 +1,11 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Shivam Sikotra</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"> I'm Shivam Sikotra</h1>
 
 <!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShivamSikotra11/ShivamSikotra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
 <div align="center">
   <img src ="./banner.png" />
-  
 </div>
 
  <br/>
@@ -66,6 +65,9 @@ Here are some ideas to get you started: -->
   </a> 
   
   [![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FShivam_Sikotra&logo=leetcode&logoColor=yellow)](https://leetcode.com/Shivam_Sikotra/)
+
+ 
+  
 <!--
   <a href="https://soumyajitblogs.vercel.app/" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/>
