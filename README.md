@@ -17,9 +17,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning `MERN Stack`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
-
-- 💬 Ask me about DSA,CP,ML Except Maths :sweat_smile:
-- 💬 Ask me about **DSA**,**CP**,**Machine Learning, Data Science, NLP, Deep Learning**
+- 💬 Ask me about **DSA**,**CP**,**Machine Learning, Data Science, NLP, Deep Learning** Except **Maths** :sweat_smile:
 - 📫 How to reach me - **sikotra756@gmail.com**
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
@@ -64,6 +62,8 @@ Here are some ideas to get you started: -->
   <a href="https://www.linkedin.com/in/sikotra-shivam/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
+
+  <a href="https://www.datacamp.com/portfolio/ShivamSikotra" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="viralbiyawala"/></a>
   
   [![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FShivam_Sikotra&logo=leetcode&logoColor=yellow)](https://leetcode.com/Shivam_Sikotra/)
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started: -->
 
 <a href="https://www.buymeacoffee.com/sikotra756a" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-## 📊 My GitHub Data:
+## 📊 GitHub Statistics:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShivamSikotra11&show_icons=true" />
