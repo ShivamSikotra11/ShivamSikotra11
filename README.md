@@ -89,7 +89,10 @@ Here are some ideas to get you started: -->
 
 ## 📊 GitHub Statistics:
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShivamSikotra11&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSikotra11" alt="Shivam Sikotra's GitHub Streak" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShivamSikotra11&show_icons=true" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSikotra11" alt="Shivam Sikotra's GitHub Streak" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSikotra11&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Shivam Sikotra's Top Languages" />
 </div>
+
+
