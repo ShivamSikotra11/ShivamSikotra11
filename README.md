@@ -4,9 +4,9 @@
 **ShivamSikotra11/ShivamSikotra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-<div align="center">
+<!-- <div align="center">
   <img src ="./bannerr.png" />
-</div>
+</div> -->
 
  <br/>
 
