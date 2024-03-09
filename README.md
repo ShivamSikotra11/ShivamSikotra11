@@ -70,6 +70,7 @@ Here are some ideas to get you started: -->
   <a href="https://www.datacamp.com/portfolio/ShivamSikotra" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="viralbiyawala"/></a>
   
   [![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FShivam_Sikotra&logo=leetcode&logoColor=yellow)](https://leetcode.com/Shivam_Sikotra/)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Shivam_Sikotra)
 
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivam_sikotra/profile)
 
