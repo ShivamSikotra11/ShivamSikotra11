@@ -69,10 +69,11 @@ Here are some ideas to get you started: -->
 
   <a href="https://www.datacamp.com/portfolio/ShivamSikotra" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="viralbiyawala"/></a>
   
+  [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivam_sikotra/profile)
 
   ![](https://leetcard.jacoblin.cool/Shivam_Sikotra?ext=heatmap)
 
-[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivam_sikotra/profile)
+
 
 <!--
   <a href="https://soumyajitblogs.vercel.app/" target="_blank">
