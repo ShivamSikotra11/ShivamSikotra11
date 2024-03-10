@@ -14,8 +14,8 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🌱 I’m currently learning `MERN Stack`
-
+- 🎓 I’m MongoDB Certified Associate Developer
+- 🌱 I’m `MERN Stack Developer`
 - 👯 I’m looking to collaborate for `Dev Projects`
 - 💬 Ask me about **DSA**,**CP**,**Machine Learning, Data Science, NLP, Deep Learning** Except **Maths** :sweat_smile:
 - 📫 How to reach me - **sikotra756@gmail.com**
