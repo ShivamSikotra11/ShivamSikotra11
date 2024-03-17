@@ -63,8 +63,7 @@ Here are some ideas to get you started: -->
 <!--   <a href="https://twitter.com/soumyajit4419" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a>  -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4c3766f2-ed6e-44dd-b822-559e588c9a9e/deploy-status)](https://app.netlify.com/sites/shivam-sikotra-portfolio/deploys)
-  
+ 
   <a href="https://www.linkedin.com/in/sikotra-shivam/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
@@ -72,9 +71,7 @@ Here are some ideas to get you started: -->
   <a href="https://www.datacamp.com/portfolio/ShivamSikotra" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="viralbiyawala"/></a>
   
   [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivam_sikotra/profile)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4c3766f2-ed6e-44dd-b822-559e588c9a9e/deploy-status)](https://app.netlify.com/sites/shivam-sikotra-portfolio/deploys)
-
+ 
 
 
   ![](https://leetcard.jacoblin.cool/Shivam_Sikotra?ext=heatmap)
