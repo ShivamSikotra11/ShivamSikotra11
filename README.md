@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 - 💼 Visit my <a href="https://shivam-sikotra-portfolio.netlify.app/" target="_blank">**Portfolio**</a> website
 - 👯 I’m looking to collaborate for `Dev Projects`
 - 💬 Ask me about **DSA**,**CP**,**Machine Learning, Data Science, NLP, Deep Learning** Except **Maths** :sweat_smile:
-- 📫 How to reach me - **sikotra756@gmail.com**
+- 📫 How to reach me - **shivamsikotra.cse@gmail.com**
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
