@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 👨🏻‍💻 I’m `SWE Intern` at `Build Macro`
+- 👨🏻‍💻 I’m doing `SWE` Internship at `Build Macro`
 - 🎓 I’m `MongoDB Certified Associate Developer`
 - 🌱 I’m `MERN Stack Developer`
 - 💼 Visit my <a href="https://shivam-sikotra-portfolio.netlify.app/" target="_blank">**Portfolio**</a> website
