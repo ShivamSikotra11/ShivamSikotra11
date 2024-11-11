@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 - 👨🏻‍💻 I’m doing `SWE` Internship at `Build Macro`
 - 🎓 I’m `MongoDB Certified Associate Developer`
-- 🌱 I’m `MERN Stack Developer`
+- 🌱 I’m `MERN/MEAN Stack Developer`
 - 💼 Visit my <a href="https://shivam-sikotra-portfolio.netlify.app/" target="_blank">**Portfolio**</a> website
 - 👯 I’m looking to collaborate for `Dev Projects`
 - 💬 Ask me about **DSA**,**CP**, **MERN Stack**,**Docker** Except **Maths** :sweat_smile:
